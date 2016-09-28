@@ -6,3 +6,6 @@ One dimensional array.
 
 ## Requirements
 PHP 5.3
+
+## Tags
+return-all-values-with-key, return-all-values-that-match-a-key
